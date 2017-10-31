@@ -38,6 +38,16 @@ header {
 	background-attachment: fixed;
 }
 
+.header-img{ 
+  height: 800px;
+  text-align: center;
+  margin-bottom: 0;
+  position: relative;
+  background-image: url(../img/coffee.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+}
 /* Nav bar*/
 .site-header {
     position: fixed;
@@ -505,6 +515,12 @@ TESTIMONIAL
 	background: url(../img/coffe.jpg) no-repeat center;
 	background-size: cover;
 	position: relative;
+}
+.testimonial-about {
+  
+  background: url(../img/coffe.jpg) no-repeat center;
+  background-size: cover;
+  position: relative;
 }
 
 .mask{

@@ -41,6 +41,11 @@ h1,h2,h3,h4,h5,h6{
   background-size: cover;
 }
 
+.page-header.header-schedule {
+  background: url(../img/IMG_0487.jpg) no-repeat center fixed;
+  background-size: cover;
+}
+
 .header-img{ 
   height: 800px;
   text-align: center;
@@ -51,6 +56,8 @@ h1,h2,h3,h4,h5,h6{
   background-size: cover;
   background-attachment: fixed;
 }
+
+
 /* Nav bar*/
 .site-header {
     position: fixed;

@@ -1,7 +1,7 @@
 /*Theme Name: Omnia Base Boiler-plate
 Author: MemberDev
 Author URI: http://creatency.com/
-Description: This is a boilerplate template forthe Crossfit Omnia website.
+Description: This is a boilerplate template for the Crossfit Omnia website.
 Version: 1.0
 */
 
@@ -699,8 +699,8 @@ ul.social li a i:focus{
 	
 	background-color: #fff;
 	color: #000;
-
 }
+
 
 /*Coaches section*/
 
@@ -714,10 +714,7 @@ ul.social li a i:focus{
     color: #19dbe5;
     text-decoration: none;
 /* Clear floats after the columns */
-.row:after {
-    content: "";
-    display: table;
-    clear: both;
+
 }
 
 /* Responsive layout - makes a two column-layout instead of four columns */

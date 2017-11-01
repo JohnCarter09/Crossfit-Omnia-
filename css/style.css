@@ -378,6 +378,9 @@ textarea.form-control{
 .button:hover {
     background-color: #555;
 }
+.feature-icon{
+  size: 75px;
+}
 
 }
 
@@ -393,23 +396,15 @@ textarea.form-control{
 .btn{
 	border-radius: 0;
 	font-size: 16px;
+  font-weight: bold;
 	padding: 15px 40px;
 	transition: all 0.5s;
+
 }
 
-.btn-lg{
-	padding: 25px 50px;
-}
-
-.btn-lg.btn-primary{
-	border-width: none;
-	background-color: #19dbe5;
-	border-radius: 30px
-}
-
-.btn-primary{
-	background: color #19dbe5;
-	border:none solid #fff;
+.btn.btn-primary{
+	background: #19dbe5;
+	border:none;
 	border-radius: 30px;
 	
 }

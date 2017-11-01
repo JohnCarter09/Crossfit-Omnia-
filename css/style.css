@@ -1,6 +1,6 @@
 /*Theme Name: Omnia Base Boiler-plate
-Author: MemberDev
-Author URI: http://creatency.com/
+Author: MemberDev / John Cater
+Author URI: http://MemberDev.com/
 Description: This is a boilerplate template for the Crossfit Omnia website.
 Version: 1.0
 */
@@ -379,7 +379,7 @@ textarea.form-control{
     background-color: #555;
 }
 .feature-icon{
-  size: 75px;
+  font-size: 4em;
 }
 
 }

@@ -31,6 +31,10 @@ h1,h2,h3,h4,h5,h6{
   color: #fff;
 }
 
+.h3-white{
+  color: #fff;
+}
+
 .page-header {
 	height: 800px;
 	text-align: center;
@@ -240,7 +244,7 @@ textarea.form-control{
 
 .title{
   font-weight: bold;
-  color: #000;
+  color: #19dbe5;
 }
 .title-left{
 	text-align: left;
@@ -360,10 +364,6 @@ textarea.form-control{
     content: "";
     clear: both;
     display: table;
-}
-
-.title {
-    color: grey;
 }
 
 .button {

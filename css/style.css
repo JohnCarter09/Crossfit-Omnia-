@@ -419,6 +419,18 @@ textarea.form-control{
 	border-radius: 0px;
 
 }
+.btn.btn-secondary{
+  background: #444;
+  border: none;
+  border-radius: 0px;
+  color: #fff;
+}
+
+.btn.btn-secondary:hover{
+  background: #81ebf4;
+  color: #000;
+  border-color:#000;
+}
 
 .btn-primary:hover,
 .btn-primary:active,

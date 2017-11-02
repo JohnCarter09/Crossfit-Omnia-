@@ -336,6 +336,11 @@ textarea.form-control{
 	transform: translate(0,-50%);
 }
 
+.element-style {
+  background: none;
+  border: none;
+}
+
 /* Three columns side by side */
 .column {
     float: left;
@@ -410,16 +415,16 @@ textarea.form-control{
 
 .btn.btn-primary{
 	background: #19dbe5;
-	border:none;
-	border-radius: 30px;
-	
+	border: none;
+	border-radius: 0px;
+
 }
 
 .btn-primary:hover,
 .btn-primary:active,
 .btn-primary:active:hover,
 .btn-primary:focus{
-	background: #dbf8ff;
+	background: #81ebf4;
 	color: #000;
 	border-color:#000;
 }
@@ -661,6 +666,10 @@ footer a:hover{
 	margin-bottom: 40px;
 }
 
+.modal-footer{
+  text-align: center;
+
+}
 /*******************************
 SOCIAL ICONS
 ******************************/
@@ -732,6 +741,7 @@ ul.social li a i:focus{
    }
 }
 
+}
 /*****************************
 RESPONSIVE
 ******************************/

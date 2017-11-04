@@ -486,6 +486,10 @@ textarea.form-control{
 	color: #19dbe5;
 }
 
+.journal{
+  color: #7a7a7a;
+}
+
 .fa fa-facebook{
 	color: #19dbe5;
 }
@@ -684,7 +688,6 @@ footer a:hover{
 
 .modal-footer{
   text-align: center;
-
 }
 /*******************************
 SOCIAL ICONS
@@ -697,7 +700,7 @@ ul.social{
 
 ul.social li{
 	display: inline-block;
-	width: 30px;
+	width: 40px;
 
 }
 
@@ -708,15 +711,15 @@ ul.social li a{
 
 
 ul.social li a i{
-	color: #dd2339;
-	width: 32px;
-	height: 32px;
+	color: #19dbe5;
+	width: 35px;
+	height: 35px;
 	display: block;
 	line-height: 32px;
 	text-align: center;
 	border-radius: 100%;
 	-webkit-transition: all 0.5;
-	transition: all 0.5s;
+	transition: all 0.8s;
 }
 
 

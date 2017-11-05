@@ -45,6 +45,7 @@ h1,h2,h3,h4,h5,h6{
 	position: relative;
 	background: url(../img/header.jpg) no-repeat center fixed;
 	background-size: cover;
+  
 }
 .page-header.header-pricing {
   background: url(../img/keyboard.jpg) no-repeat center fixed;
@@ -728,6 +729,8 @@ ul.social li a i:focus{
     margin-top: 20px;
     width: 90%;
     margin: right;
+    box-shadow: 10px 10px 5px #888888;
+
 }
 .column img:hov {
     background: rgb(255, 255, 255 .50);

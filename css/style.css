@@ -352,11 +352,20 @@ textarea.form-control{
 
 /* Display the columns below each other instead of side by side on small screens */
 @media (max-width: 650px) {
+    .site-header .header-brand {
+      width: 100px;
+    }
+    .site-header .header-nav > li > a {
+      font-size: .9em;
+      padding: 10px;
+    } 
     .column {
         width: 100%;
         display: block;
+
     }
 }
+
 
 /* Add some shadows to create a card effect */
 .card {

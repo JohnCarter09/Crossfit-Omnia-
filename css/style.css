@@ -351,7 +351,7 @@ textarea.form-control{
 }
 
 /* Display the columns below each other instead of side by side on small screens */
-@media (max-width: 650px) {
+@media (max-width: 675px) {
     .site-header .header-brand {
       width: 100px;
     }

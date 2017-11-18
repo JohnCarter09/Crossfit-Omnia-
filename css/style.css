@@ -618,18 +618,22 @@ textarea.form-control{
   padding-top: 15px;
 
 }
+.btn.btn-primary-send{
+  background: #74eefc;
+  border-radius: 3px;
+}
 
 .btn.btn-primary{
 	background: #19dbe5;
 	border: none;
-	border-radius: 3px;
+	border-radius: px;
   color: #000;
 
 }
 .btn.btn-secondary{
   background: #444;
   border: none;
-  border-radius: 3px;
+  border-radius: 4px;
   color: #fff;
 }
 
@@ -649,8 +653,14 @@ textarea.form-control{
 .btn-primary:active:hover,
 .btn-primary:focus{
 	background: rgba(130, 242, 255, .4);
-	color: #19dbe5;
+	color: #fff;
 	border-color:#afafaf;
+}
+.btn.btn-primary-send:hover{
+  background: 000;
+  color: #000;
+  border-color: #19dbe5;
+  border-radius: 3px;
 }
 
 .call-to-action{

@@ -626,7 +626,7 @@ textarea.form-control{
 .btn.btn-primary{
 	background: #19dbe5;
 	border: none;
-	border-radius: px;
+	border-radius: 3px;
   color: #000;
 
 }

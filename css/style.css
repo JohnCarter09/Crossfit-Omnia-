@@ -618,7 +618,7 @@ textarea.form-control{
   padding-top: 15px;
 
 }
-.btn.btn-primary-send{
+.btn.btn-primary-send {
   background: #74eefc;
   border-radius: 3px;
 }
@@ -656,7 +656,7 @@ textarea.form-control{
 	color: #fff;
 	border-color:#afafaf;
 }
-.btn.btn-primary-send:hover{
+.btn.btn-primary-send:hover {
   background: #000;
   color: #fff;
   border-color: #19dbe5;

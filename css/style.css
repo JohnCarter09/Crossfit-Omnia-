@@ -561,6 +561,9 @@ textarea.form-control{
 }
 
 /* Some left and right padding inside the container */
+.container.container-contact{
+  padding: 125px;
+}
 .container {
     padding: 0 16px;
 }
@@ -618,10 +621,6 @@ textarea.form-control{
   padding-top: 15px;
 
 }
-.btn.btn-primary-send {
-  background: #74eefc;
-  border-radius: 3px;
-}
 
 .btn.btn-primary{
 	background: #19dbe5;
@@ -638,7 +637,7 @@ textarea.form-control{
 }
 
 .btn.btn-secondary:hover{
-  background: rgba(129, 235, 244, .3)
+  background: rgba(129, 235, 244, .3);
   color: #000;
   border-color:#000;
 }
@@ -655,6 +654,10 @@ textarea.form-control{
 	background: rgba(130, 242, 255, .4);
 	color: #fff;
 	border-color:#afafaf;
+}
+.btn.btn-primary-send {
+  background: #74eefc;
+  border-radius: 3px;
 }
 .btn.btn-primary-send:hover {
   background: #000;

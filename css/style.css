@@ -408,6 +408,8 @@ textarea.form-control{
 .title{
   font-weight: bold;
   color: #19dbe5;
+  padding-top: 40px;
+  padding-bottom: 15px;
 }
 .title-left{
 	text-align: left;

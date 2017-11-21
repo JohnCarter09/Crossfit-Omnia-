@@ -509,7 +509,7 @@ textarea.form-control{
 
 /* Some left and right padding inside the container */
 .container.container-contact{
-  padding: 125px;
+  padding: 50px;
 }
 .container {
     padding: 0 16px;
@@ -822,6 +822,16 @@ TESTIMONIAL
 address{
 	text-align: center;
 	margin-bottom: 75px;
+}
+
+.fa.fa-compass{
+padding-top: 50px;
+}
+.fa.fa-envelope-o{
+padding-top: 50px;
+}
+.fa.fa-mobile{
+padding-top: 50px;
 }
 
 address .fa{

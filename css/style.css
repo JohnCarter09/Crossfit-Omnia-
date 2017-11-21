@@ -47,6 +47,14 @@ h1,h2,h3,h4,h5,h6{
 	background-size: cover;
   
 }
+.page-header h1 {
+  color: #fff;
+  margin: 0 0 30px;
+}
+.page-header p {
+  font-size: 1.5em;
+  color: #fff;
+}
 .page-header.header-pricing {
   background: url(../img/keyboard.jpg) no-repeat center fixed;
   background-size: cover;
@@ -62,6 +70,10 @@ h1,h2,h3,h4,h5,h6{
   background-size: cover;
 }
 
+.page-header.header-slim{
+  height: auto;
+  padding: 200px 0 50px;
+}
 .header-img{ 
   height: 800px;
   text-align: center;
@@ -204,9 +216,6 @@ h1,h2,h3,h4,h5,h6{
 
 .site-header.header-restyle .header-brand {
   width: 75px;
-}
-section{
-	padding: 50px 0;
 }
 
 section.no-padding{
@@ -457,14 +466,6 @@ textarea.form-control{
 .main-head {
 	position: relative;
 	margin-bottom: 40px;
-}
-.main-head h1 {
-  color: #fff;
-  margin: 0 0 30px;
-}
-.main-head p {
-  font-size: 1.5em;
-  color: #fff;
 }
 
 .main-head span{
@@ -831,7 +832,7 @@ padding-top: 50px;
 padding-top: 50px;
 }
 .fa.fa-mobile{
-padding-top: 50px;
+padding: 50px;
 }
 
 address .fa{

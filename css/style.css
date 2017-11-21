@@ -514,6 +514,7 @@ textarea.form-control{
 }
 .container {
     padding: 0 16px;
+    padding-bottom: 7px;
 }
 
 /* Clear floats */
@@ -606,6 +607,7 @@ textarea.form-control{
 .btn.btn-primary-send {
   background: #74eefc;
   border-radius: 3px;
+  padding-bottom: 15px;
 }
 .btn.btn-primary-send:hover {
   background: #000;

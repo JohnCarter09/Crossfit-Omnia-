@@ -84,6 +84,10 @@ h1,h2,h3,h4,h5,h6{
   background-size: cover;
   background-attachment: fixed;
 }
+.page-header.header-archive {
+  background: url(../img/IMG_0431.jpg) no-repeat center fixed;
+  background-size: cover;
+}
 
 
 /* Nav bar*/

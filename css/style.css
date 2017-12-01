@@ -74,6 +74,12 @@ h1,h2,h3,h4,h5,h6{
   height: auto;
   padding: 200px 0 50px;
 }
+.page-header.header-about.header-slim-rj {
+  background: url(../img/header-blur.jpg) no-repeat center fixed;
+  height: auto;
+  padding: 200px 0 50px;
+
+}
 .header-img{ 
   height: 800px;
   text-align: center;

@@ -85,6 +85,8 @@ color: #19dbe5;
 
 }
 
+/*pagination sections*/
+
 .pagination a {
     color: black;
     float: left;
@@ -94,7 +96,7 @@ color: #19dbe5;
 }
 
 .pagination a.active {
-    background-color: #4CAF50;
+    background-color: #19dbe5;
     color: white;
 }
 

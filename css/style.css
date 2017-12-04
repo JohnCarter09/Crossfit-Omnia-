@@ -84,6 +84,11 @@ color: #19dbe5;
   padding: 200px 0 50px;
 
 }
+.page-header.header-about.header-slim-post {
+  background: url(../img/IMG_0431.jpg) no-repeat center fixed;
+  height: auto;
+  padding: 200px 0 50px;
+}
 
 /*pagination sections*/
 
